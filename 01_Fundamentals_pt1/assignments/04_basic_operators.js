@@ -1,3 +1,5 @@
+let population = 214;
+
 console.log('Assignment 4 - Basic Operators ---------------------------');
 
 // Half of my country's population
